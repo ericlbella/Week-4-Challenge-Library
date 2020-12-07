@@ -1,0 +1,6 @@
+C:\Users\ericl\ElevenFiftyProjects\Week4Challenge_Library\bin\Debug\Week4Challenge_Library.dll
+C:\Users\ericl\ElevenFiftyProjects\Week4Challenge_Library\bin\Debug\Week4Challenge_Library.pdb
+C:\Users\ericl\ElevenFiftyProjects\Week4Challenge_Library\obj\Debug\Week4Challenge_Library.csprojAssemblyReference.cache
+C:\Users\ericl\ElevenFiftyProjects\Week4Challenge_Library\obj\Debug\Week4Challenge_Library.csproj.CoreCompileInputs.cache
+C:\Users\ericl\ElevenFiftyProjects\Week4Challenge_Library\obj\Debug\Week4Challenge_Library.dll
+C:\Users\ericl\ElevenFiftyProjects\Week4Challenge_Library\obj\Debug\Week4Challenge_Library.pdb
